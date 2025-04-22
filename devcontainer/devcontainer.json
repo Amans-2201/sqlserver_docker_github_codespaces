@@ -1,0 +1,8 @@
+{
+    "name": "SQL Server Dev",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "sqlserver",
+    "workspaceFolder": "/workspace",
+    "forwardPorts": [1433]
+  }
+  
